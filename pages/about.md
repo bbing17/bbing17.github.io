@@ -14,6 +14,6 @@ title: 关于我
 
 - QQ&nbsp;&nbsp;&nbsp;&nbsp;: 997226432
 
-- Email&nbsp;: [997226432@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=YBQNAQkaBSAREU4DDw0)
+- Email&nbsp;: [bbing17@foxmail.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=dxUVHhkQRkA3ERgPGhYeG1kUGBo)
 
 - GitHub: [https://github.com/bbing17](https://github.com/bbing17)
