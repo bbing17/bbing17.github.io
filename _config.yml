@@ -57,8 +57,19 @@ extMath: false
 
 # 友情链接
 links:
+  - title: 我的常用AAP
+    url: http://bbing.cc/posts/2021/01/01/%E6%88%91%E5%B8%B8%E7%94%A8%E7%9A%84APP.html
   - title: 大白番外地
     url: https://nni5.com
-  - title: hipda
-    url: http://hi-pda.com
-  
+  - title: v2ray免费账号
+    url: https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
+  - title: 小米6-AOSP
+    url: https://www.cooluc.com/aosp.html
+  - title: 小米6谷歌相机
+    url: https://www.celsoazevedo.com/files/android/google-camera/dev-alexey070315/
+  - title: 低端影视
+    url: https://ddrk.me/
+  - title: 奈菲影视
+    url: https://www.nfmovies.com/
+  - title: 1
+    url: 1
